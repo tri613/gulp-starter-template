@@ -1,0 +1,15 @@
+{
+	"browserSync": {
+        "proxy": "http://localhost/playground/app"
+    },
+	"css": {
+		"src" : "./app/src/*.css",
+		"dest": "./app/css"		
+	},
+	"js": {
+		"src": "./app/js/*.js"
+	},
+	"html": {
+		"src": "./app/*.html"
+	}
+}
