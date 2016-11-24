@@ -1,4 +1,4 @@
-# Gulp work flow starter template
+# Gulp starter template
 
 Writing up a new gulpfile each time for a new project is so annoying and depressing,  
 i decided to make this gulp starter template (that fulfills most of my need) and hope to relieve some pain.
