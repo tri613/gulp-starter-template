@@ -1,6 +1,6 @@
 # Gulp starter template
 
-Writing up a new gulpfile each time for a new project is very annoying and depressing to me, (cause i'm super lazy)
+Writing up a new gulpfile each time for a new project is very annoying and depressing to me, (cause i'm super lazy)  
 i decided to make this gulp starter template (that fulfills most of my needs) and hope to relieve some pain.
 
 ## setup
