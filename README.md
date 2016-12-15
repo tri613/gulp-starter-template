@@ -41,5 +41,6 @@ i decided to make this gulp starter template (that fulfills most of my needs) an
 - `serve`
 	- add css prefix
 	- live reload for css, js and html
-- `css-auto-prefixer`
+- `css-process`
 	- add css prefix
+	- minify css
